@@ -1,3 +1,5 @@
+# https://ameybagwe12-covid-19-analysis-main-ldkyxf.streamlit.app/ --> streamlit website linl
+
 import streamlit as st  # for webpage
 import folium  # base map
 import pandas as pd  # data analysis and manipulation tool
