@@ -30,7 +30,7 @@ with st.sidebar:
 if selected == 'Home':
     st.markdown("<h1 style='text-align: left; color: orange;'>Covid-19 Analysis Group - 29</h1>",
                 unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: left; color: orange;'>Group Members 🔥 </h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: left; color: orange;'>Group Members : </h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; color: yellow;'>Amey Nitin Bagwe</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; color: yellow;'>Vailantan Fernandes</h1>", unsafe_allow_html=True)
 
